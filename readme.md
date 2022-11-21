@@ -9,7 +9,7 @@ This week we'll be pulling together all of the Javascript techniques you've lear
 - conditionals
 - functions
 - HTML & CSS
-
+ 
 
 ## Assignment - Styling with `CSS` 
 
